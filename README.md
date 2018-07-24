@@ -1,6 +1,7 @@
 # RaynalBird
 
 **Contexte**
+
 Notre application est un jeu vidéo développé avec Python 3.6 et utilisant la bibliothèque Pygame. Le but du jeu consiste à éviter pour le joueur, les différents tuyaux se présentant devant lui. Si le joueur échoue et touche l’un des obstacles, il doit alors recommencer la partie du début et avec pour objectif d’aller le plus loin possible. Il existe 3 niveaux de difficultés :
 - Le niveau « Easy » : Le personnage avance lentement, laissant le temps d’éviter facilement les obstacles.
 - Le niveau « Medium » : Le personne avance de manière assez rapide.
